@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvana0909&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvana0909" /> </p>
 
-<!-- - 🌱 I’m currently learning **react**   -->
+<!-- - 🌱 I'm currently learning **react**   -->
 
 - 📫 How to reach me **bhuvanab0909@gmail.com**
 
