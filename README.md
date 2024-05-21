@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bhuvana</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Certified Business Intelligence Developer with over 3+ years of professional and technical experience. Extensive abilities in writing DAX and SQL scripts and developing Dashboards , Data Modelling , Data Visualizations. Proficient emotional intelligence employability skills including Integrity, Adaptability, Strong Work Ethic, and the ability to work well in teams.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvana0909&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvana0909" /> </p>
 
 <!-- - 🌱 I'm currently learning **react**   -->
