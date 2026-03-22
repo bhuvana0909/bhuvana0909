@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Bhuvana</h1>
-<h3 align="center">Certified Business Intelligence Developer with over 3+ years of professional and technical experience. Extensive abilities in writing DAX and SQL scripts and developing Dashboards , Data Modelling , Data Visualizations. Proficient emotional intelligence employability skills including Integrity, Adaptability, Strong Work Ethic, and the ability to work well in teams.</h3>
+<h3 align="center">💼 Data Analyst with 4+ years of experience in data analysis, reporting, and dashboard development.
+📊 Skilled in SQL, Excel, Python, and visualization tools like Power BI/Tableau.
+🤖 Currently exploring AI & NLP using Hugging Face and transformer models.
+🚀 Passionate about turning data into actionable insights and business impact.
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvana0909&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvana0909" /> </p>
 
 <!-- - 🌱 I'm currently learning **react**   -->
